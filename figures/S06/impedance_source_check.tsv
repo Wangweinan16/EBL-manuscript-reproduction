@@ -1,0 +1,13 @@
+session	recording_folder	file_in_source_impedance	instrument_numeric_rows	plotted_rows	same_in_source_order	same_unordered
+1	EBL2_month1_Oct11_week2	01_EBL2_Oct11.txt	128	128	True	True
+2	EBL2_month1_Oct17_week3	02_EBL2_Oct17.txt	128	128	True	True
+3	EBL2_month1_Oct25_week4	03_impedance.txt	128	128	True	True
+4	EBL2_month2_Nov17_week8	04_impedance.txt	128	128	True	True
+5	EBL2_month2_Nov22_week9	05_impedance.txt	128	128	True	True
+6	EBL2_month3_Dec03_week10	06_impedance.txt	128	128	True	True
+7	EBL2_month3_Dec08_week11	07_impedance.txt	128	128	True	True
+8	EBL2_month3_Dec22_week13	08_impedance.txt	128	128	True	True
+9	EBL2_month4_Jan26_week18	09_Requesting impedance tests.txt	128	128	True	True
+10	EBL2_month5_Feb16_week21	10_impedance.txt	128	128	True	True
+11	EBL2_month6_Mar02_week23	11_New Text Document.txt	128	128	True	True
+12	EBL2_month6_Mar22_week26	12_impedance.txt	128	128	True	True

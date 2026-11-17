@@ -1,0 +1,11 @@
+# Figure 3F: tested with CPython 3.10.18 in a separate environment.
+numpy==1.26.4
+scipy==1.15.3
+pandas==2.2.3
+matplotlib==3.10.0
+seaborn==0.13.2
+scikit-learn==1.7.0
+numba==0.61.2
+llvmlite==0.44.0
+pynndescent==0.5.13
+umap-learn==0.5.9.post2

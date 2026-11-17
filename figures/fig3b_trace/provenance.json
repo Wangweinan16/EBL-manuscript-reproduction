@@ -1,0 +1,96 @@
+{
+  "source_recording": "yuhang_15-Feb-20242320233074.ns5",
+  "format": "Blackrock NSx 2.2",
+  "stream_id": 5,
+  "analog_unit": "uV",
+  "hardware_electrode_id": 99,
+  "acquisition_label": "raw 99",
+  "zero_based_interleaved_index": 98,
+  "interleaved_channels": 128,
+  "digital_min": -32767,
+  "digital_max": 32767,
+  "analog_min": -8191,
+  "analog_max": 8191,
+  "sampling_frequency_hz": 30000,
+  "window_start_frame": 52470886,
+  "window_end_frame_exclusive": 52477486,
+  "condition_trial_1based": 10,
+  "global_trial_1based": 491,
+  "stimulation_channel": 29,
+  "current_uA": 4,
+  "pulse_count": 50,
+  "pulse_interval_samples": 600,
+  "curated_primary_unit": 104,
+  "curated_secondary_unit_with_zero_spikes_in_this_window": 105,
+  "clip_box_pdf_points": [
+    165.594,
+    566.796,
+    300.128,
+    58.0
+  ],
+  "visible_pulse_marker_x_pt": [
+    188.0762,
+    234.8277,
+    281.7831,
+    328.4386,
+    375.3942,
+    422.2532
+  ],
+  "source_vector_transform": {
+    "x_pt_at_window_start": 0.3893,
+    "x_pt_per_sample": 0.07805076526746477,
+    "y_pt_per_uV": 0.02794611960019579,
+    "y_pt_at_zero_uV": 617.0799361506258
+  },
+  "page_coordinates": "PDF points from bottom left, before Illustrator crop. Original sample frames are zero-based indices in the NS5 (one uninterrupted packet).",
+  "ns5_header_sha256": "bb9f034f33870705848a74580798d957a8589bd684a8c6351c0f2cd378157cbf",
+  "source_panel_svg": "raw_units104_105_stimch29_4uA_trial10_ch99.svg",
+  "source_plate": "figure3.ai",
+  "vector_validation": {
+    "original_matplotlib_svg": {
+      "correlation_to_final_vector": 0.9999999664762413,
+      "rms_final_page_points": 0.0017668359501720843,
+      "source_vertices": 2425
+    },
+    "assembly_panel_svg": {
+      "correlation_to_final_vector": 0.9986037661250621,
+      "rms_final_page_points": 0.3604518982454806,
+      "source_vertices": 2425
+    },
+    "raw_voltage_vs_vector": {
+      "r": 0.9999999991180499,
+      "max_fit_error_pt": 0.0005203927938737252
+    }
+  },
+  "artifact_bands_pdf_bounds_x_pt": [
+    [
+      186.54,
+      193.565
+    ],
+    [
+      233.371,
+      240.395
+    ],
+    [
+      280.201,
+      287.226
+    ],
+    [
+      327.031,
+      334.056
+    ],
+    [
+      373.862,
+      380.886
+    ],
+    [
+      420.692,
+      427.717
+    ]
+  ],
+  "original_analog_header_calibration": "ADC counts mapped linearly from digital_min/digital_max to analog_min/analog_max in \u00b5V. Data are unfiltered.",
+  "source_sorting": "Processed_16-Feb-2024_161703/waveforms_curated_3/sorting.json and underlying sorter_output/firings.npz; selections and merges replayed before querying IDs 104 and 105.",
+  "trial_first_pulse_frame": 52471486,
+  "time_zero": "First pulse of the 50-pulse source train. Artwork displays pulses 4\u20139.",
+  "placement_note": "Blue dash coordinates are measured Illustrator marker positions. They differ by 3\u20136 sample periods from the exact pulse record in stimulus_train.csv. The five arrow x coordinates agree with curated spike frames to <0.006 sample."
+}

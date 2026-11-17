@@ -1,0 +1,8 @@
+panel,position,printed_label,sorter_unit_id
+2D,1,i,29
+2D,2,ii,30
+2D,3,iii,21
+2D,4,iv,88
+2D,5,v,10
+2E,top,i,29
+2E,bottom,iv,31
